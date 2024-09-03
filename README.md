@@ -1,6 +1,6 @@
 # TNSRKF
 Code for paper 
-C. Menzen, M. Kok and K. Batselier: Square-root tensor-networked Kalman filter for online Gaussian process regression
+C. Menzen, M. Kok and K. Batselier: Square root tensor network Kalman filter for online Gaussian process regression
 
 For reproducibility of the experiments, run 
 
