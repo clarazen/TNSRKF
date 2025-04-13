@@ -285,7 +285,7 @@ export TNSRKF, predictions
 
         sv          = zeros(N)
         println("time-step: ")
-        for t = 1:5#size(Φ[1],1)
+        for t = 1:size(Φ[1],1)
             if mod(t, 20) == 0
                 print(t,",")
             end
